@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.423,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.708,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.118,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\PC\Desktop\Университет\Теория инфомации\Потоковый\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.432,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\PC\Desktop\Университет\Теория инфомации\Потоковый\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.743,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.432,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\PC\Desktop\Университет\Теория инфомации\Потоковый\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.846,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.022,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
